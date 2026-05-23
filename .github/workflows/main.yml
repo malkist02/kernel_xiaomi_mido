@@ -10,7 +10,7 @@ on:
         type: string
       name:
         description: 'Name'
-        default: '4.9.228-perf⁺'
+        default: '4.9.337-mido'
         required: true
         type: string
       compiler:
@@ -30,7 +30,7 @@ on:
         type: string
       kernel-branch:
         description: 'Kernel-branch'
-        default: 'main'
+        default: 's12'
         required: true
         type: string
       kernel-config:
